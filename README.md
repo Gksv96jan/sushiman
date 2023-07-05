@@ -1,2 +1,2 @@
 # sushiman
-Sushiman website build through HTML &amp; CSS only.
+Sushiman website builds through HTML &amp; CSS only.
